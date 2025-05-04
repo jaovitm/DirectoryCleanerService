@@ -1,0 +1,7 @@
+{
+  "foldersToClean": [
+    "C:\\Windows\\Temp"
+  ],
+  "deleteFilesOlderThanDays": 7,
+  "checkIntervalMinutes" : 120
+}
